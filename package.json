@@ -1,0 +1,22 @@
+{
+  "name": "raocat.com",
+  "version": "0.0.1",
+  "description": "Primary website for raocat marketing materials and online store.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raocat/raocat.com.git"
+  },
+  "author": "Erik and Jesse Tate",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Raocat/raocat.com/issues"
+  },
+  "homepage": "https://github.com/Raocat/raocat.com#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
